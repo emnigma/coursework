@@ -20,4 +20,4 @@ void display(List *list); ///вывести список
 
 void destroy(List *list); ///очистить память
 
-#endif //COURSEWORK_LIST_H
+#endif //LIST_H

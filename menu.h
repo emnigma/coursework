@@ -19,4 +19,4 @@ void showSearch(List *list);
 
 void showSort(List *list);
 
-#endif //COURSEWORK_MENU_H
+#endif //MENU_H

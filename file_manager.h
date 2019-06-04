@@ -13,4 +13,4 @@ void readListFromFile(FILE *file, List *list); ///чтение списка из файли
 
 void saveListToFile(FILE *file, List *list); ///сохранить лист в файл
 
-#endif //COURSEWORK_FILE_MANAGER_H
+#endif //FILE_MANAGER_H
