@@ -17,4 +17,4 @@ void sortByPrice(List *list);
 
 void sortByRating(List *list);
 
-#endif //COURSEWORK_SORT_H
+#endif //SORT_H

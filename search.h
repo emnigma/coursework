@@ -19,4 +19,4 @@ void getSearchListByRating(List *list, double rating);
 
 void getSearchListByDate(List *list, int day, int month, int year);
 
-#endif //COURSEWORK_SEARCH_H
+#endif //SEARCH_H
